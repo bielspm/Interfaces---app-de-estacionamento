@@ -9,4 +9,4 @@
 <h1>Mapa</h1>
 <img src='mapa.png' width='300' height='500'>
 <h1>Compras</h1>
-<img src='compras.png' width='300' height='500'>
+<img src='Compras.png' width='300' height='500'>
